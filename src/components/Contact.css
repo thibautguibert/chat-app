@@ -21,6 +21,13 @@
     color: #eee;
   }
   
+  /* Contact status */
+  .Contact .status {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+
   /* Status text */
   .Contact .status .status-text {
     color: #999;
